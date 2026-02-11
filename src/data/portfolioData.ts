@@ -50,8 +50,8 @@ export const personalInfo = {
   location: "Delhi, India",
   email: "mehakrustagi1410@gmail.com",
   phone: "9999889683",
-  linkedin: "https://linkedin.com/in/mehakrustagi",
-  portfolio: "https://mehakrustagi.dev",
+  linkedin: "www.linkedin.com/in/mehak-rustagi",
+  portfolio: "https://mehakrustagi.in",
 };
 
 export const experiences: Experience[] = [
