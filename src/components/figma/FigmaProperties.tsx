@@ -64,10 +64,6 @@ export const FigmaProperties = ({ activeSection }: FigmaPropertiesProps) => {
             <span>{personalInfo.email}</span>
           </a>
           <div className="flex items-center gap-2 text-[11px] text-muted-foreground">
-            <Phone className="w-3 h-3" />
-            <span>{personalInfo.phone}</span>
-          </div>
-          <div className="flex items-center gap-2 text-[11px] text-muted-foreground">
             <MapPin className="w-3 h-3" />
             <span>{personalInfo.location}</span>
           </div>
