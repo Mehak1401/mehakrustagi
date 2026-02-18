@@ -49,7 +49,6 @@ export const personalInfo = {
   tagline: "UI/UX Developer & Designer",
   location: "Delhi, India",
   email: "mehakrustagi1410@gmail.com",
-  phone: "9999889683",
   linkedin: "www.linkedin.com/in/mehak-rustagi",
   portfolio: "https://mehakrustagi.in",
 };
